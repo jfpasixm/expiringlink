@@ -1,4 +1,4 @@
-<p style="text-align: center"><img src="https://github.com/jfpasixm/expiringlink/img/screenshot.png" alt="screenshot"></p>
+<p style="text-align: center"><img src="https://github.com/jfpasixm/expiringlink/blob/main/img/screenshot.png" alt="screenshot"></p>
 
 Initially coded last March 15, 2018 using PHP 7.1.8. Rechecked for compatability with PHP 8.2 on July 24, 2023
 
