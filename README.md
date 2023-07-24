@@ -28,8 +28,13 @@ Copy the files to htdocs folder<br>(Mine is C:\xampp\htdocs\ using xampp, yours 
 Open your browser, then navigate to http://localhost/expiringlink/ and press "Enter"<br>(Your test URL might be different)
 
 ### Changelog
-
-1.0.0    - Initial commit
-
-1.0.1    - function parse_str() is changed in PHP 8.2, it now requires an array variable.
-         - edited decrypt.php based from the above change.
+<table style="border: none;">
+  <tr>
+    <td style="padding-right:10px;">1.0.0</td>
+    <td>- Initial commit</td>
+  </tr>
+  <tr>
+    <td style="padding-right:10px;">1.0.1</td>
+    <td>- Edited decrypt.php due to the change of function parse_str() in PHP 8.2 which now requires an array variable.</td>
+  </tr>
+</table>
