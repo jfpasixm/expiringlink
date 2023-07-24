@@ -1,0 +1,9 @@
+
+	#Turn Rewrite Engine On
+	RewriteEngine on
+
+	#L makes this the last rule that this specific condition will match
+
+	#RewriteRule for decrypt.php?code=xxx to /file/xxx
+	RewriteRule ^file/([0-9a-zA-Z=]+) decrypt.php?code=$1 [L]
+	
