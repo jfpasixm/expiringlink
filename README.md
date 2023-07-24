@@ -22,19 +22,14 @@ Plugin(s)/Framework(s)/Theme(s) used:
 
 ### Installation
 
-Copy the files to htdocs folder
-
-(Mine is C:\xampp\htdocs\ using xampp, yours might be different)
+Copy the files to htdocs folder<br>(Mine is C:\xampp\htdocs\ using xampp, yours might be different)
 
 ### How to run
-Open your browser, then navigate to http://localhost/expiringlink/ and press "Enter"
-
-(Your test URL might be different)
+Open your browser, then navigate to http://localhost/expiringlink/ and press "Enter"<br>(Your test URL might be different)
 
 ### Changelog
 
 1.0.0    - Initial commit
 
 1.0.1    - function parse_str() is changed in PHP 8.2, it now requires an array variable.
-
          - edited decrypt.php based from the above change.
